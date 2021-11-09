@@ -1,0 +1,2 @@
+Install VScode and Live server extension
+Index.html -> Right click -> Open live server
